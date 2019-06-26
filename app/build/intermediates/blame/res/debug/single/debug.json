@@ -1,0 +1,570 @@
+[
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_legend_other.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\legend_other.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_icon_music.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\category_icon_music.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_operation_button_cancel.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\operation_button_cancel.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_button_bg_right.9.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\category_button_bg_right.9.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_file_icon_txt.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\file_icon_txt.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_bar_theme.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\category_bar_theme.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_path_pane.9.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\path_pane.9.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wifi_state4.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\wifi_state4.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-hdpi_category_button_bg_bottom.9.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-land-hdpi\\category_button_bg_bottom.9.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-hdpi_category_bar_music.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-land-hdpi\\category_bar_music.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-hdpi_category_button_bg_selected.9.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-land-hdpi\\category_button_bg_selected.9.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_remote_button_pressed.9.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\remote_button_pressed.9.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_file_icon_picture.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\file_icon_picture.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_bottom.xml.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable\\btn_bottom.xml"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\layout_file_explorer_list.xml.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\layout\\file_explorer_list.xml"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_icon_favorite.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\category_icon_favorite.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-hdpi_category_bar_empty.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-land-hdpi\\category_bar_empty.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_file_icon_video.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\file_icon_video.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_up_level.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\up_level.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\xml_searchable.xml.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_bottom_last.xml.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable\\btn_bottom_last.xml"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_bar_mask.9.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\category_bar_mask.9.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dropdown.9.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\dropdown.9.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_folder.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\folder.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_file_icon_wav.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\file_icon_wav.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\menu_operation_menu.xml.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\menu\\operation_menu.xml"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_remote_button_bg.xml.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable\\remote_button_bg.xml"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_check_on_holo_light.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on_holo_light.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_operation_button_info.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\operation_button_info.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_bar_other.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\category_bar_other.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_up_level_pressed.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\up_level_pressed.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_path_up_level.xml.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable\\path_up_level.xml"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-hdpi_category_bar_document.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-land-hdpi\\category_bar_document.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_new_folder.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_new_folder.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_icon_video.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\category_icon_video.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\layout_file_browser_item.xml.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\layout\\file_browser_item.xml"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\layout_server_control_activity.xml.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\layout\\server_control_activity.xml"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-hdpi_category_bar_other.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-land-hdpi\\category_bar_other.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_icon_apk.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\category_icon_apk.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_path_pane_bg.xml.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable\\path_pane_bg.xml"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dropdown_icon_folder.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\dropdown_icon_folder.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_popup_bg.9.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\popup_bg.9.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_legend_theme.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\legend_theme.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_legend_apk.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\legend_apk.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dropdown_icon_root.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\dropdown_icon_root.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_check_off_holo_light.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\btn_check_off_holo_light.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_file_icon_zip.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\file_icon_zip.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_bar_apk.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\category_bar_apk.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_file_icon_mid.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\file_icon_mid.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_bottom_normal.9.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\btn_bottom_normal.9.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_sort.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_sort.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_legend_music.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\legend_music.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_refresh.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_refresh.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_operation_button_copy.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\operation_button_copy.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_information_bg.9.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\information_bg.9.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-hdpi_category_bar_mask.9.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-land-hdpi\\category_bar_mask.9.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-hdpi_information_bg.9.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-land-hdpi\\information_bg.9.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_path_pane_pressed.9.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\path_pane_pressed.9.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_legend_zip.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\legend_zip.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dropdown_item_bg.xml.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable\\dropdown_item_bg.xml"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_file_explorer_category_.xml.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\layout-land\\file_explorer_category_.xml"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_bottom_pressed.9.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\btn_bottom_pressed.9.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_file_icon_default.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\file_icon_default.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arrow_down.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\arrow_down.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_icon_theme.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\category_icon_theme.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_bar_music.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\category_bar_music.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_button_bg_middle.9.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\category_button_bg_middle.9.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sd_card_icon.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\sd_card_icon.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\layout_favorite_item.xml.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\layout\\favorite_item.xml"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arrow_up.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\arrow_up.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_notification.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\notification.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-hdpi_category_bar_theme.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-land-hdpi\\category_bar_theme.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_file_icon_pdf.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\file_icon_pdf.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_select_all.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_select_all.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_icon_zip.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\category_icon_zip.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_legend_picture.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\legend_picture.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_bar_document.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\category_bar_document.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bottom_button_bar.xml.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable\\bottom_button_bar.xml"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_operation_button_send.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\operation_button_send.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_show_sys.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_show_sys.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_icon_document.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\category_icon_document.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_file_icon_theme.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\file_icon_theme.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ipaddress_bg.9.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\ipaddress_bg.9.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dropdown_pressed.9.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\dropdown_pressed.9.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_remote_button.9.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\remote_button.9.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-hdpi_category_bar_apk.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-land-hdpi\\category_bar_apk.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_icon_bg.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\image_icon_bg.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_operation_button_move.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\operation_button_move.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_stat_sys_install_complete.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\stat_sys_install_complete.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_pager.xml.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\layout\\fragment_pager.xml"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-hdpi_category_button_bg_top.9.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-land-hdpi\\category_button_bg_top.9.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_bar_zip.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\category_bar_zip.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_operation_button_selectall.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\operation_button_selectall.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sd_not_available.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\sd_not_available.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_operation_button_delete.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\operation_button_delete.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_button_bg_left.9.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\category_button_bg_left.9.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_file_icon_rar.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\file_icon_rar.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_category_button_middle.xml.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable\\category_button_middle.xml"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_button_bg_selected.9.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\category_button_bg_selected.9.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_legend_document.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\legend_document.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\layout_information_dialog.xml.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\layout\\information_dialog.xml"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_icon_picture.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\category_icon_picture.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_operation_bar_bg.9.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\operation_bar_bg.9.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_bar_video.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\category_bar_video.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_bottom_last_pressed.9.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\btn_bottom_last_pressed.9.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-hdpi_category_bar_video.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-land-hdpi\\category_bar_video.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_secondary_title_background.9.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\secondary_title_background.9.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_disconnect.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\disconnect.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_category_button_bottom.xml.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable\\category_button_bottom.xml"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_operation_button_background.xml.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable\\operation_button_background.xml"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-hdpi_category_bar_picture.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-land-hdpi\\category_bar_picture.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_file_icon_mp3.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\file_icon_mp3.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_folder_fav.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\folder_fav.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-hdpi_category_bar_zip.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-land-hdpi\\category_bar_zip.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_operation_button_info_gray.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\operation_button_info_gray.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_bar_empty.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\category_bar_empty.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\layout_file_explorer_category.xml.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\layout\\file_explorer_category.xml"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_bar_picture.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\category_bar_picture.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_file_icon_wma.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\file_icon_wma.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_category_button_top.xml.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable\\category_button_top.xml"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wifi_state0.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\wifi_state0.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sd_card_available_icon.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\sd_card_available_icon.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\layout_textinput_dialog.xml.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\layout\\textinput_dialog.xml"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_empty_icon.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\empty_icon.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_operation_button_pressed.9.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\operation_button_pressed.9.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bottom_button_bar_pressed.9.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\bottom_button_bar_pressed.9.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_legend_video.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\legend_video.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\layout_dropdown_item.xml.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\layout\\dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_connect.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\connect.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_file_icon_office.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\file_icon_office.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_bottom_last_normal.9.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\btn_bottom_last_normal.9.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_category_button_left.xml.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable\\category_button_left.xml"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bottom_button_bar_normal.9.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\bottom_button_bar_normal.9.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\layout_category_file_browser_item.xml.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\layout\\category_file_browser_item.xml"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_delete_favorite.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_delete_favorite.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_category_button_right.xml.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable\\category_button_right.xml"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dropdown_normal.9.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\dropdown_normal.9.png"
+    }
+]

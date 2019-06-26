@@ -1,0 +1,169 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:21:1-96:12
+INJECTED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:21:1-96:12
+INJECTED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:21:1-96:12
+INJECTED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:21:1-96:12
+INJECTED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:21:1-96:12
+INJECTED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:21:1-96:12
+INJECTED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:21:1-96:12
+	package
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:22:5-38
+		INJECTED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml
+		INJECTED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:24:5-30
+		INJECTED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml
+		INJECTED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:21:11-69
+	android:versionCode
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:23:5-28
+		INJECTED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml
+		INJECTED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:26:5-76
+	android:name
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:26:22-73
+uses-permission#android.permission.INTERNET
+ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:27:5-67
+	android:name
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:27:22-64
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:28:5-76
+	android:name
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:28:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:29:5-81
+	android:name
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:29:22-78
+uses-permission#android.permission.INSTALL_PACKAGES
+ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:30:5-75
+	android:name
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:30:22-72
+uses-permission#android.permission.DELETE_PACKAGES
+ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:31:5-74
+	android:name
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:31:22-71
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:32:5-68
+	android:name
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:32:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:33:5-79
+	android:name
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:33:22-76
+application
+ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:35:5-94:19
+	android:label
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:37:9-41
+	android:uiOptions
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:39:9-53
+	android:icon
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:36:9-38
+	android:theme
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:38:9-56
+activity#net.micode.fileexplorer.FileExplorerTabActivity
+ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:40:9-68:20
+	android:screenOrientation
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:43:13-47
+	android:uiOptions
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:44:13-57
+	android:configChanges
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:42:13-62
+	android:name
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:41:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER
+ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:45:13-49:29
+action#android.intent.action.MAIN
+ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:46:17-69
+	android:name
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:46:25-66
+category#android.intent.category.DEFAULT
+ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:47:17-76
+	android:name
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:47:27-73
+category#android.intent.category.LAUNCHER
+ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:48:17-77
+	android:name
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:48:27-74
+intent-filter#action:name:android.intent.action.MEDIA_MOUNTED+action:name:android.intent.action.MEDIA_UNMOUNTED+action:name:android.intent.action.PICK+category:name:android.intent.category.DEFAULT+data:scheme:file
+ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:50:13-59:29
+action#android.intent.action.PICK
+ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:51:17-69
+	android:name
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:51:25-66
+action#android.intent.action.MEDIA_MOUNTED
+ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:55:17-78
+	android:name
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:55:25-75
+action#android.intent.action.MEDIA_UNMOUNTED
+ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:56:17-80
+	android:name
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:56:25-77
+data
+ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:58:17-47
+	android:scheme
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:58:23-44
+	android:mimeType
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:66:23-45
+intent-filter#action:name:android.intent.action.GET_CONTENT+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.OPENABLE+data:mimeType:*/*
+ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:60:13-67:29
+action#android.intent.action.GET_CONTENT
+ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:61:17-76
+	android:name
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:61:25-73
+category#android.intent.category.OPENABLE
+ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:63:17-77
+	android:name
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:63:27-74
+activity#net.micode.fileexplorer.net.micode.fileexplorer.SearchActivity
+ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:70:9-80:20
+	android:name
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:70:19-73
+intent-filter#action:name:android.intent.action.SEARCH+category:name:android.intent.category.DEFAULT
+ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:71:13-75:29
+action#android.intent.action.SEARCH
+ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:72:17-71
+	android:name
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:72:25-68
+meta-data#android.app.searchable
+ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:77:13-79:54
+	android:resource
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:79:17-51
+	android:name
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:78:17-54
+activity#net.micode.fileexplorer.FileExplorerPreferenceActivity
+ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:82:9-87:20
+	android:label
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:83:13-49
+	android:launchMode
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:84:13-43
+	android:theme
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:86:13-72
+	android:name
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:85:13-58
+meta-data#android.app.default_searchable
+ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:89:9-91:47
+	android:value
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:90:13-58
+service#net.micode.fileexplorer.FTPServerService
+ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:93:9-53
+	android:name
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml:93:18-50
+uses-sdk
+INJECTED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml
+INJECTED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml
+INJECTED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml
+INJECTED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml
+		INJECTED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml
+		ADDED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml
+		INJECTED from E:\GitSourceCode\FileExplorer\app\src\main\AndroidManifest.xml
