@@ -5,9 +5,9 @@ android {
     buildToolsVersion "28.0.3"
 
     defaultConfig {
-        applicationId "net.micode.fileexplorer"
+        applicationId "net.alaucnher.fileexplorer"
         minSdkVersion 14
-        targetSdkVersion 14
+        targetSdkVersion 28
     }
 
     buildTypes {
@@ -20,4 +20,12 @@ android {
 
 dependencies {
     implementation files('libs/android-support-v13.jar')
+}
+
+android.applicationVariants.all {
+    variant ->
+        variant.outputs.all {
+            //这里修改apk文件名
+            outputFileName = "FileManager.apk"
+        }
 }

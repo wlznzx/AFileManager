@@ -72,8 +72,8 @@
         <item name="android:orientation">vertical</item>
     </style>
     <style name="CategoryButtonIconStyle">
-        <item name="android:layout_height">wrap_content</item>
-        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">96dp</item>
+        <item name="android:layout_width">96dp</item>
         <item name="android:layout_marginBottom">3px</item>
     </style>
     <style name="CategoryButtonTextStyle">

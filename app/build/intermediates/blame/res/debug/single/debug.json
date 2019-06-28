@@ -12,16 +12,16 @@
         "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\operation_button_cancel.png"
     },
     {
-        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_button_bg_right.9.png.flat",
-        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\category_button_bg_right.9.png"
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_bar_theme.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\category_bar_theme.png"
     },
     {
         "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_file_icon_txt.png.flat",
         "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\file_icon_txt.png"
     },
     {
-        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_bar_theme.png.flat",
-        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\category_bar_theme.png"
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_button_bg_right.9.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\category_button_bg_right.9.png"
     },
     {
         "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_path_pane.9.png.flat",
@@ -52,12 +52,12 @@
         "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\file_icon_picture.png"
     },
     {
-        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_bottom.xml.flat",
-        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable\\btn_bottom.xml"
-    },
-    {
         "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\layout_file_explorer_list.xml.flat",
         "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\layout\\file_explorer_list.xml"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_bottom.xml.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable\\btn_bottom.xml"
     },
     {
         "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_icon_favorite.png.flat",
@@ -76,16 +76,16 @@
         "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\up_level.png"
     },
     {
-        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\xml_searchable.xml.flat",
-        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\xml\\searchable.xml"
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_bar_mask.9.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\category_bar_mask.9.png"
     },
     {
         "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_bottom_last.xml.flat",
         "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable\\btn_bottom_last.xml"
     },
     {
-        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_bar_mask.9.png.flat",
-        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\category_bar_mask.9.png"
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\xml_searchable.xml.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\xml\\searchable.xml"
     },
     {
         "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dropdown.9.png.flat",
@@ -168,6 +168,10 @@
         "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable\\path_pane_bg.xml"
     },
     {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_icon.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\mipmap-hdpi\\icon.png"
+    },
+    {
         "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dropdown_icon_folder.png.flat",
         "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\dropdown_icon_folder.png"
     },
@@ -214,6 +218,10 @@
     {
         "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_sort.png.flat",
         "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_sort.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_category_icon_music.png.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-xhdpi\\category_icon_music.png"
     },
     {
         "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_legend_music.png.flat",
@@ -534,6 +542,10 @@
     {
         "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_connect.png.flat",
         "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\drawable-hdpi\\connect.png"
+    },
+    {
+        "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\xml_file_paths.xml.flat",
+        "source": "E:\\GitSourceCode\\FileExplorer\\app\\src\\main\\res\\xml\\file_paths.xml"
     },
     {
         "merged": "E:\\GitSourceCode\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_file_icon_office.png.flat",
