@@ -31,7 +31,6 @@ import android.content.ClipboardManager;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
-import android.media.MediaScannerConnection;
 import android.net.Uri;
 import android.os.Build;
 import android.os.Environment;
@@ -346,6 +345,7 @@ public class FileViewInteractionHub implements IOperationProgressListener {
             String displayPath = mFileViewListener.getDisplayPath(mCurrentPath);
             boolean root = true;
             int left = 0;
+            /*
             while (pos != -1 && !displayPath.equals("/")) {//如果当前位置在根文件夹则不显示导航条
                 int end = displayPath.indexOf("/", pos);
                 if (end == -1)
@@ -365,13 +365,33 @@ public class FileViewInteractionHub implements IOperationProgressListener {
                 TextView text = (TextView) listItem.findViewById(R.id.path_name);
                 String substring = displayPath.substring(pos, end);
                 if (substring.isEmpty()) substring = "/";
+                Log.d(LOG_TAG, "substring = " + substring);
                 text.setText(substring);
 
                 listItem.setOnClickListener(navigationClick);
                 listItem.setTag(mFileViewListener.getRealPath(displayPath.substring(0, end)));
+                Log.d(LOG_TAG, "tag = " + mFileViewListener.getRealPath(displayPath.substring(0, end)));
                 pos = end + 1;
                 list.addView(listItem);
             }
+            */
+
+            View sdcardListItem = LayoutInflater.from(mContext).inflate(R.layout.dropdown_item,
+                    null);
+            ((ImageView) sdcardListItem.findViewById(R.id.item_icon)).setImageResource(R.drawable.dropdown_icon_folder);
+            ((TextView) sdcardListItem.findViewById(R.id.path_name)).setText("/mnt/sdcard");
+            sdcardListItem.setTag("/mnt/sdcard");
+            sdcardListItem.setOnClickListener(navigationClick);
+            list.addView(sdcardListItem);
+
+            View emulatedListItem = LayoutInflater.from(mContext).inflate(R.layout.dropdown_item,
+                    null);
+            ((ImageView) emulatedListItem.findViewById(R.id.item_icon)).setImageResource(R.drawable.dropdown_icon_folder);
+            ((TextView) emulatedListItem.findViewById(R.id.path_name)).setText("/storage");
+            emulatedListItem.setTag("/storage");
+            emulatedListItem.setOnClickListener(navigationClick);
+            list.addView(emulatedListItem);
+
             if (list.getChildCount() > 0)
                 showDropdownNavigation(true);
 
@@ -385,7 +405,7 @@ public class FileViewInteractionHub implements IOperationProgressListener {
             return true;
         }
 
-        if (!mRoot.equals(mCurrentPath)) {
+        if (!mRoot.equals(mCurrentPath) && !mCurrentPath.equals("/mnt") && !mCurrentPath.equals("/storage")) {
             mCurrentPath = new File(mCurrentPath).getParent();
             refreshFileList();
             return true;
@@ -704,7 +724,7 @@ public class FileViewInteractionHub implements IOperationProgressListener {
             // addMenuItem(menu, GlobalConsts.MENU_PASTE, 0,
             // R.string.operation_paste);
             addMenuItem(menu, GlobalConsts.MENU_MOVE, 0, R.string.operation_move);
-            addMenuItem(menu, MENU_SEND, 0, R.string.operation_send);
+            // addMenuItem(menu, MENU_SEND, 0, R.string.operation_send);
             addMenuItem(menu, MENU_RENAME, 0, R.string.operation_rename);
             addMenuItem(menu, MENU_DELETE, 0, R.string.operation_delete);
             addMenuItem(menu, MENU_INFO, 0, R.string.operation_info);

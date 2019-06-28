@@ -30,7 +30,31 @@
             android:singleLine="true"
             android:gravity="center_vertical"
             android:textAppearance="?android:attr/textAppearanceSmall" />
-
     </LinearLayout>
+
+    <!--<LinearLayout-->
+        <!--android:id="@+id/emulated_list_item"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="fill_parent"-->
+        <!--android:gravity="center_vertical"-->
+        <!--android:orientation="horizontal"-->
+        <!--android:layout_marginLeft="10dip">-->
+
+        <!--<ImageView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:scaleType="fitCenter"-->
+            <!--android:gravity="center"-->
+            <!--android:layout_gravity="center_vertical"-->
+            <!--android:src="@drawable/dropdown_icon_folder"-->
+            <!--android:layout_marginRight="5dip" />-->
+
+        <!--<TextView-->
+            <!--android:layout_width="fill_parent"-->
+            <!--android:layout_height="88px"-->
+            <!--android:singleLine="true"-->
+            <!--android:gravity="center_vertical"-->
+            <!--android:textAppearance="?android:attr/textAppearanceSmall" />-->
+    <!--</LinearLayout>-->
 
 </LinearLayout>

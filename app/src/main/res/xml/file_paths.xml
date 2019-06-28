@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<paths>
-    <external-path path="Android/data/cn.alauncher.cmappstore/" name="files_root" />
-    <external-path path="." name="external_storage_root" />
-</paths>
+<resources>
+    <paths>
+        <root-path path="" name="camera_photos" />
+    </paths>
+</resources>

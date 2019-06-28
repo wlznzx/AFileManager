@@ -97,7 +97,7 @@
     <string name="pref_primary_folder">Home folder</string>
     <string name="pref_read_root">Read root</string>
     <string name="pref_show_real_path">Display real path</string>
-    <string name="default_primary_folder">/storage</string>
+    <string name="default_primary_folder">/mnt/sdcard</string>
     <string name="pref_primary_folder_summary">The folder that appears when the app starts, and current value is <xliff:g id="string">%1$s</xliff:g></string>
     <string name="pref_show_real_path_summary">Show real path in navigation bar</string>
 
