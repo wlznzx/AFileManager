@@ -40,42 +40,42 @@ public class FileIconHelper implements IconLoadFinishListener {
     private FileIconLoader mIconLoader;
 
     static {
-        addItem(new String[] {
-            "mp3"
+        addItem(new String[]{
+                "mp3"
         }, R.drawable.file_icon_mp3);
-        addItem(new String[] {
-            "wma"
+        addItem(new String[]{
+                "wma"
         }, R.drawable.file_icon_wma);
-        addItem(new String[] {
-            "wav"
+        addItem(new String[]{
+                "wav"
         }, R.drawable.file_icon_wav);
-        addItem(new String[] {
-            "mid"
+        addItem(new String[]{
+                "mid"
         }, R.drawable.file_icon_mid);
-        addItem(new String[] {
+        addItem(new String[]{
                 "mp4", "wmv", "mpeg", "m4v", "3gp", "3gpp", "3g2", "3gpp2", "asf"
         }, R.drawable.file_icon_video);
-        addItem(new String[] {
+        addItem(new String[]{
                 "jpg", "jpeg", "gif", "png", "bmp", "wbmp"
         }, R.drawable.file_icon_picture);
-        addItem(new String[] {
+        addItem(new String[]{
                 "txt", "log", "xml", "ini", "lrc"
         }, R.drawable.file_icon_txt);
-        addItem(new String[] {
+        addItem(new String[]{
                 "doc", "ppt", "docx", "pptx", "xsl", "xslx",
         }, R.drawable.file_icon_office);
-        addItem(new String[] {
-            "pdf"
+        addItem(new String[]{
+                "pdf"
         }, R.drawable.file_icon_pdf);
-        addItem(new String[] {
-            "zip"
+        addItem(new String[]{
+                "zip"
         }, R.drawable.file_icon_zip);
-        addItem(new String[] {
-            "mtz"
+        addItem(new String[]{
+                "mtz"
         }, R.drawable.file_icon_theme);
-        addItem(new String[] {
-            "rar"
-        }, R.drawable.file_icon_rar);
+        addItem(new String[]{
+                "rar"
+        }, R.drawable.file_icon_zip);
     }
 
     public FileIconHelper(Context context) {
