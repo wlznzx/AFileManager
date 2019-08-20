@@ -18,7 +18,7 @@
     <string name="confirm_know">OK</string>
     <string name="enable_sd_card">SD card is not available, please connect one</string>
     <string name="error_info_cant_send_folder">Unable to send the folder</string>
-    <string name="fail_to_create_folder">Failed to create the folder, the folder already exists</string>
+    <string name="fail_to_create_folder">Failed to create the folder, Permission denied or the folder already exists</string>
     <string name="fail_to_rename">Failed to rename the file or folder as it already exists</string>
     <string name="file_info_canread">Readable:</string>
     <string name="file_info_canwrite">Writable:</string>

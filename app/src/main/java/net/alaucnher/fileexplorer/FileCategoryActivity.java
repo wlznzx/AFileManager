@@ -237,6 +237,7 @@ public class FileCategoryActivity extends Fragment implements IFileInteractionLi
     View.OnClickListener onClickListener = new View.OnClickListener() {
         @Override
         public void onClick(View v) {
+            android.util.Log.d("wlDebug", "click 7.");
             FileCategory f = button2Category.get(v.getId());
             if (f != null) {
                 onCategorySelected(f);

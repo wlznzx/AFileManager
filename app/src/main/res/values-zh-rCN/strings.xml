@@ -46,7 +46,7 @@
     <string name="operation_create_folder_message">请输入文件夹名称</string>
     <string name="operation_delete_confirm_message">确认删除?</string>
     <string name="new_folder_name">新建文件夹</string>
-    <string name="sd_card_size">SD卡:<xliff:g id="total_size">%1$s</xliff:g></string>
+    <string name="sd_card_size">内部存储:<xliff:g id="total_size">%1$s</xliff:g></string>
     <string name="sd_card_available">可用:<xliff:g id="available_size">%1$s</xliff:g></string>
     <string name="file_info_location">位置:</string>
     <string name="file_info_size">大小:</string>
@@ -65,7 +65,7 @@
     <string name="error_info_cant_send_folder">不能发送文件夹</string>
     <string name="added_favorite">已加入收藏夹</string>
     <string name="removed_favorite">已从收藏夹移除</string>
-    <string name="fail_to_create_folder">创建文件夹失败，文件夹已存在。</string>
+    <string name="fail_to_create_folder">创建文件夹失败，无创建权限或文件夹已存在。</string>
     <string name="fail_to_rename">重命名失败失败，可能使用该名称的文件或文件夹已存在。</string>
     <string name="enable_sd_card">无可用SD卡，请插入或连接SD卡</string>
     <string name="start_server">启动服务</string>

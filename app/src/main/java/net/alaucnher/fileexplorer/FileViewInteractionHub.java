@@ -547,7 +547,7 @@ public class FileViewInteractionHub implements IOperationProgressListener {
             }
         }
 
-        Intent intent = IntentBuilder.buildSendFile(selectedFileList);
+        Intent intent = IntentBuilder.buildSendFile(mContext, selectedFileList);
         if (intent != null) {
             try {
                 mFileViewListener.startActivity(intent);
@@ -713,12 +713,13 @@ public class FileViewInteractionHub implements IOperationProgressListener {
 
             FavoriteDatabaseHelper databaseHelper = FavoriteDatabaseHelper.getInstance();
             FileInfo file = mFileViewListener.getItem(info.position);
+            /*
             if (databaseHelper != null && file != null) {
                 int stringId = databaseHelper.isFavorite(file.filePath) ? R.string.operation_unfavorite
                         : R.string.operation_favorite;
                 addMenuItem(menu, GlobalConsts.MENU_FAVORITE, 0, stringId);
             }
-
+            */
             addMenuItem(menu, GlobalConsts.MENU_COPY, 0, R.string.operation_copy);
             addMenuItem(menu, GlobalConsts.MENU_COPY_PATH, 0, R.string.operation_copy_path);
             // addMenuItem(menu, GlobalConsts.MENU_PASTE, 0,
@@ -906,8 +907,8 @@ public class FileViewInteractionHub implements IOperationProgressListener {
         // R.string.operation_paste);
         addMenuItem(menu, GlobalConsts.MENU_NEW_FOLDER, 3, R.string.operation_create_folder,
                 R.drawable.ic_menu_new_folder);
-        addMenuItem(menu, GlobalConsts.MENU_FAVORITE, 4, R.string.operation_favorite,
-                R.drawable.ic_menu_delete_favorite);
+//        addMenuItem(menu, GlobalConsts.MENU_FAVORITE, 4, R.string.operation_favorite,
+//                R.drawable.ic_menu_delete_favorite);
         addMenuItem(menu, GlobalConsts.MENU_SHOWHIDE, 5, R.string.operation_show_sys,
                 R.drawable.ic_menu_show_sys);
         addMenuItem(menu, MENU_REFRESH, 6, R.string.operation_refresh,

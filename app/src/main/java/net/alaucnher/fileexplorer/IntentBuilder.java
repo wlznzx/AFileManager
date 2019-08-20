@@ -23,6 +23,7 @@ import java.io.File;
 import java.util.ArrayList;
 
 import android.app.AlertDialog;
+import android.content.ComponentName;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
@@ -35,18 +36,21 @@ public class IntentBuilder {
 
     public static void viewFile(final Context context, final String filePath) {
         String type = getMimeType(filePath);
-
         if (!TextUtils.isEmpty(type) && !TextUtils.equals(type, "*/*")) {
             /* 设置intent的file与MimeType */
             /**/
+            android.util.Log.d("wlDebug", "viewFile 1 type = " + type);
             Intent intent = new Intent();
             intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
             intent.setAction(android.content.Intent.ACTION_VIEW);
             intent.setFlags(Intent.FLAG_GRANT_READ_URI_PERMISSION);
             Uri uri = FileProvider.getUriForFile(context, "net.alaucnher.fileexplorer.fileprovider", new File(filePath));
             //intent.setDataAndType(Uri.fromFile(new File(filePath)), type);
-            intent.setDataAndType(uri, type);
             // Intent intent = FileUtil.openFile(filePath);
+            if (type.startsWith("image")) {
+                intent.setComponent(new ComponentName("com.android.gallery3d", "com.android.gallery3d.app.GalleryActivity"));
+            }
+            intent.setDataAndType(uri, type);
             context.startActivity(intent);
         } else {
             // unknown MimeType
@@ -77,10 +81,21 @@ public class IntentBuilder {
                                     selectType = "image/*";
                                     break;
                             }
+                            /*
                             Intent intent = new Intent();
                             intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                             intent.setAction(android.content.Intent.ACTION_VIEW);
                             intent.setDataAndType(Uri.fromFile(new File(filePath)), selectType);
+                            context.startActivity(intent);
+                            */
+                            Intent intent = new Intent();
+                            intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                            intent.setAction(android.content.Intent.ACTION_VIEW);
+                            intent.setFlags(Intent.FLAG_GRANT_READ_URI_PERMISSION);
+                            Uri uri = FileProvider.getUriForFile(context, "net.alaucnher.fileexplorer.fileprovider", new File(filePath));
+                            //intent.setDataAndType(Uri.fromFile(new File(filePath)), type);
+                            intent.setDataAndType(uri, selectType);
+                            // Intent intent = FileUtil.openFile(filePath);
                             context.startActivity(intent);
                         }
                     });
@@ -88,8 +103,9 @@ public class IntentBuilder {
         }
     }
 
-    public static Intent buildSendFile(ArrayList<FileInfo> files) {
+    public static Intent buildSendFile(final Context context, ArrayList<FileInfo> files) {
         ArrayList<Uri> uris = new ArrayList<Uri>();
+
 
         String mimeType = "*/*";
         for (FileInfo file : files) {
@@ -98,7 +114,8 @@ public class IntentBuilder {
 
             File fileIn = new File(file.filePath);
             mimeType = getMimeType(file.fileName);
-            Uri u = Uri.fromFile(fileIn);
+            // Uri u = Uri.fromFile(fileIn);
+            Uri u = FileProvider.getUriForFile(context, "net.alaucnher.fileexplorer.fileprovider", fileIn);
             uris.add(u);
         }
 

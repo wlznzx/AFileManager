@@ -42,7 +42,7 @@ public class FileListCursorAdapter extends CursorAdapter {
     private Context mContext;
 
     public FileListCursorAdapter(Context context, Cursor cursor,
-            FileViewInteractionHub f, FileIconHelper fileIcon) {
+                                 FileViewInteractionHub f, FileIconHelper fileIcon) {
         super(context, cursor, false /* auto-requery */);
         mFactory = LayoutInflater.from(context);
         mFileViewInteractionHub = f;
@@ -62,6 +62,7 @@ public class FileListCursorAdapter extends CursorAdapter {
             fileInfo.fileSize = cursor.getLong(FileCategoryHelper.COLUMN_SIZE);
             fileInfo.ModifiedDate = cursor.getLong(FileCategoryHelper.COLUMN_DATE);
         }
+        android.util.Log.d("wlDebug", "bindView. = " + fileInfo.fileName);
         FileListItem.setupFileListItemInfo(mContext, view, fileInfo, mFileIcon,
                 mFileViewInteractionHub);
         view.findViewById(R.id.category_file_checkbox_area).setOnClickListener(

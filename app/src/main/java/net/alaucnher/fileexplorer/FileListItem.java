@@ -34,8 +34,8 @@ import net.alaucnher.fileexplorer.FileViewInteractionHub.Mode;
 
 public class FileListItem {
     public static void setupFileListItemInfo(Context context, View view,
-            FileInfo fileInfo, FileIconHelper fileIcon,
-            FileViewInteractionHub fileViewInteractionHub) {
+                                             FileInfo fileInfo, FileIconHelper fileIcon,
+                                             FileViewInteractionHub fileViewInteractionHub) {
 
         // if in moving mode, show selected file always
         if (fileViewInteractionHub.isMoveState()) {
@@ -74,7 +74,7 @@ public class FileListItem {
         private FileViewInteractionHub mFileViewInteractionHub;
 
         public FileItemOnClickListener(Context context,
-                FileViewInteractionHub fileViewInteractionHub) {
+                                       FileViewInteractionHub fileViewInteractionHub) {
             mContext = context;
             mFileViewInteractionHub = fileViewInteractionHub;
         }
@@ -125,7 +125,7 @@ public class FileListItem {
         }
 
         public ModeCallback(Context context,
-                FileViewInteractionHub fileViewInteractionHub) {
+                            FileViewInteractionHub fileViewInteractionHub) {
             mContext = context;
             mFileViewInteractionHub = fileViewInteractionHub;
         }
@@ -144,9 +144,9 @@ public class FileListItem {
             mMenu.findItem(R.id.action_copy_path).setVisible(
                     mFileViewInteractionHub.getSelectedFileList().size() == 1);
             mMenu.findItem(R.id.action_cancel).setVisible(
-            		mFileViewInteractionHub.isSelected());
+                    mFileViewInteractionHub.isSelected());
             mMenu.findItem(R.id.action_select_all).setVisible(
-            		!mFileViewInteractionHub.isSelectedAll());
+                    !mFileViewInteractionHub.isSelectedAll());
             return true;
         }
 

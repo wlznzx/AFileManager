@@ -56,7 +56,9 @@ public class FileOperationHelper {
     public boolean CreateFolder(String path, String name) {
         Log.v(LOG_TAG, "CreateFolder >>> " + path + "," + name);
 
-        File f = new File(Util.makePath(path, name));
+        String _path = Util.makePath(path, name);
+        Log.v(LOG_TAG, "CreateFolder _path >>> " + _path);
+        File f = new File(_path);
         if (f.exists())
             return false;
 

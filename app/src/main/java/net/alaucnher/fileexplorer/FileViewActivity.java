@@ -126,6 +126,7 @@ public class FileViewActivity extends Fragment implements
 
                 mRootView.findViewById(R.id.button_pick_confirm).setOnClickListener(new OnClickListener() {
                     public void onClick(View v) {
+                        android.util.Log.d("wlDebug","click 1.");
                         try {
                             Intent intent = Intent.parseUri(mFileViewInteractionHub.getCurrentPath(), 0);
                             mActivity.setResult(Activity.RESULT_OK, intent);
@@ -138,6 +139,7 @@ public class FileViewActivity extends Fragment implements
 
                 mRootView.findViewById(R.id.button_pick_cancel).setOnClickListener(new OnClickListener() {
                     public void onClick(View v) {
+                        android.util.Log.d("wlDebug","click 2.");
                         mActivity.finish();
                     }
                 });

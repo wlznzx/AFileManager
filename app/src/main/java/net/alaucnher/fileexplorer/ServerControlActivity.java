@@ -117,6 +117,7 @@ public class ServerControlActivity extends Fragment implements IBackPressedListe
         mRootView.findViewById(R.id.wifi_state_image).setOnClickListener(
                 new OnClickListener() {
                     public void onClick(View v) {
+                        android.util.Log.d("wlDebug","click 3.");
                         Intent intent = new Intent(
                                 android.provider.Settings.ACTION_WIFI_SETTINGS);
                         startActivity(intent);
@@ -245,6 +246,7 @@ public class ServerControlActivity extends Fragment implements IBackPressedListe
 
     OnClickListener startStopListener = new OnClickListener() {
         public void onClick(View v) {
+            android.util.Log.d("wlDebug","click 4.");
             Globals.setLastError(null);
             File chrootDir = new File(Defaults.chrootDir);
             if (!chrootDir.isDirectory())
