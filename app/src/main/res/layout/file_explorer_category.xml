@@ -152,6 +152,7 @@
             android:id="@+id/category_page"
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"
+            android:layout_marginTop="15dp"
             android:orientation="vertical">
 
             <LinearLayout
@@ -168,10 +169,14 @@
                     android:layout_weight="1"
                     android:orientation="horizontal">
 
+                    <View
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"></View>
+
                     <LinearLayout
                         android:id="@+id/category_music"
-                        style="@style/CategoryButtonStyle"
-                        android:background="?android:attr/selectableItemBackground">
+                        style="@style/CategoryButtonStyle">
 
                         <ImageView
                             style="@style/CategoryButtonIconStyle"
@@ -186,10 +191,14 @@
                             style="@style/CategoryButtonCountTextStyle" />
                     </LinearLayout>
 
+                    <View
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"></View>
+
                     <LinearLayout
                         android:id="@+id/category_video"
-                        style="@style/CategoryButtonStyle"
-                        android:background="?android:attr/selectableItemBackground">
+                        style="@style/CategoryButtonStyle">
 
                         <ImageView
                             style="@style/CategoryButtonIconStyle"
@@ -204,10 +213,14 @@
                             style="@style/CategoryButtonCountTextStyle" />
                     </LinearLayout>
 
+                    <View
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"></View>
+
                     <LinearLayout
                         android:id="@+id/category_picture"
-                        style="@style/CategoryButtonStyle"
-                        android:background="?android:attr/selectableItemBackground">
+                        style="@style/CategoryButtonStyle">
 
                         <ImageView
                             style="@style/CategoryButtonIconStyle"
@@ -221,19 +234,29 @@
                             android:id="@+id/category_picture_count"
                             style="@style/CategoryButtonCountTextStyle" />
                     </LinearLayout>
+
+                    <View
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"></View>
                 </LinearLayout>
 
                 <LinearLayout
                     android:layout_width="fill_parent"
                     android:layout_height="0dip"
                     android:layout_gravity="center"
+                    android:layout_marginTop="15dp"
                     android:layout_weight="1"
                     android:orientation="horizontal">
 
+                    <View
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"></View>
+
                     <LinearLayout
                         android:id="@+id/category_apk"
-                        style="@style/CategoryButtonStyle"
-                        android:background="?android:attr/selectableItemBackground">
+                        style="@style/CategoryButtonStyle">
 
                         <ImageView
                             style="@style/CategoryButtonIconStyle"
@@ -248,10 +271,14 @@
                             style="@style/CategoryButtonCountTextStyle" />
                     </LinearLayout>
 
+                    <View
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"></View>
+
                     <LinearLayout
                         android:id="@+id/category_document"
-                        style="@style/CategoryButtonStyle"
-                        android:background="?android:attr/selectableItemBackground">
+                        style="@style/CategoryButtonStyle">
 
                         <ImageView
                             style="@style/CategoryButtonIconStyle"
@@ -266,10 +293,14 @@
                             style="@style/CategoryButtonCountTextStyle" />
                     </LinearLayout>
 
+                    <View
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"></View>
+
                     <LinearLayout
                         android:id="@+id/category_zip"
-                        style="@style/CategoryButtonStyle"
-                        android:background="?android:attr/selectableItemBackground">
+                        style="@style/CategoryButtonStyle">
 
                         <ImageView
                             style="@style/CategoryButtonIconStyle"
@@ -283,6 +314,11 @@
                             android:id="@+id/category_zip_count"
                             style="@style/CategoryButtonCountTextStyle" />
                     </LinearLayout>
+
+                    <View
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"></View>
                 </LinearLayout>
 
                 <LinearLayout
@@ -295,7 +331,7 @@
                     <LinearLayout
                         android:id="@+id/category_theme"
                         style="@style/CategoryButtonStyle"
-                        android:background="?android:attr/selectableItemBackground"
+
                         android:visibility="gone">
 
                         <ImageView
@@ -314,7 +350,7 @@
                     <LinearLayout
                         android:id="@+id/category_favorite"
                         style="@style/CategoryButtonStyle"
-                        android:background="?android:attr/selectableItemBackground"
+
                         android:visibility="gone">
 
                         <ImageView
@@ -330,9 +366,7 @@
                             style="@style/CategoryButtonCountTextStyle" />
                     </LinearLayout>
 
-                    <LinearLayout
-                        style="@style/CategoryButtonStyle"
-                        android:background="?android:attr/selectableItemBackground"></LinearLayout>
+                    <LinearLayout style="@style/CategoryButtonStyle"></LinearLayout>
                 </LinearLayout>
             </LinearLayout>
 
@@ -341,7 +375,7 @@
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:layout_gravity="bottom"
-                android:background="?android:attr/selectableItemBackground"
+
                 android:gravity="center_vertical"
                 android:orientation="vertical"
                 android:paddingTop="5dip">
